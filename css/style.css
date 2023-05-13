@@ -109,7 +109,6 @@ header {
   color: black;
   height: 300px;
   max-width: 500px;
-  margin-left: 1rem;
 }
 
 @media (min-width: 768px) {
@@ -130,6 +129,9 @@ header {
   }
   .btn:hover {
     width: 380px;
+  }
+  .box-valor {
+    margin-left: 1rem;
   }
 }
 
