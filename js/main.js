@@ -11,6 +11,7 @@ cargarCombo(selectAbono, datosAbono);
 function ocultarCotizacion() {
   $("#cotizacion").hide();
 }
+
 $("#btn").click(function () {
   $("#cotizacion").show(500);
 });
