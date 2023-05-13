@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Martina Rodriguez",
+    "puntuacion": "⭐️ ⭐️ ⭐️ ⭐️ ⭐️",
+    "comentario": " Hic magni exercitationem delectus nobis recusandae tenetur voluptas porro officiis repudiandae laudantium",
+    "pais": "Australia",
+    "imagen": "./img/User1.png"
+  },
+  {
+    "id": 2,
+    "nombre": "María Gonzalez",
+    "puntuacion": "⭐️ ⭐️ ⭐️ ⭐️",
+    "comentario": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam placeat voluptate praesentium iste mollitia architecto autem magni deleniti nam! Consectetur impedit inventore magnam, explicabo accusamus dolores itaque placeat soluta officia    ",
+    "pais": "España",
+    "imagen": "./img/User2.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Juan Perez",
+    "puntuacion": "⭐️ ⭐️ ⭐️",
+    "comentario": "Error aliquid a fugiat tenetur sit cumque maiores alias. Ratione, aliquam cumque maxime suscipit minima praesentium temporibus reiciendis debitis aut asperiores fugit, tempore, adipisci modi iure similiqu    ",
+    "pais": "Cuba",
+    "imagen": "./img/User3.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Lucía Dominguez",
+    "puntuacion": "⭐️ ⭐️ ⭐️ ⭐️ ⭐️",
+    "comentario": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis provident excepturi architecto animi officia adipisci.",
+    "pais": "Estados Unidos",
+    "imagen": "./img/User4.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Eugenia Ramirez",
+    "puntuacion": "⭐️ ⭐️ ⭐️ ⭐️",
+    "comentario": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto, voluptatibus.    ",
+    "pais": "Egipto",
+    "imagen": "./img/User5.png"
+  }
+]
