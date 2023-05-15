@@ -57,18 +57,18 @@ header {
 }
 
 .btn:hover {
-  background-color: #ec70c0;
-  color: #8256f7;
+  background-color: #8256f7;
+  color: white;
   text-transform: uppercase;
 }
 
 .btnSeguros {
   font-size: 13px;
-  color: white;
+  color: grey;
 }
 
 .btnSeguros:hover {
-  color: grey;
+  color: black;
 }
 
 .btn2 {
@@ -78,6 +78,11 @@ header {
   border-radius: 10px;
   font-size: 18px;
   padding: 4px;
+}
+
+.btn2:hover {
+  background-color: #8256f7;
+  color: white;
 }
 
 .logo {
@@ -95,9 +100,9 @@ header {
   border-radius: 4rem;
   border: #ec70c0 solid 0.5rem;
   padding-top: 1rem;
-  color: white;
+  background-color: white;
   max-width: 1000px;
-  background-color: #8256f7;
+  color: #8256f7;
 }
 
 .box-valor {
@@ -152,10 +157,10 @@ li {
 .suscripcion {
   border-radius: 2rem;
   border: 3px solid #8256f7;
-  color: white;
+  color: #8256f7;
   margin-top: 2rem;
   height: 150px;
-  background-color: #ec70c0;
+  background-color: #cbceff;
 }
 
 .correo {
@@ -210,7 +215,7 @@ li {
 }
 
 .btnConfirm {
-  background-color: #8256f7;
+  background-color: #ec70c0;
   color: white;
   height: 60px;
   width: 250px;
@@ -220,6 +225,7 @@ li {
 
 .btnConfirm:hover {
   background-color: #ec70c0;
+  background-color: #8256f7;
   text-transform: uppercase;
 }
 
